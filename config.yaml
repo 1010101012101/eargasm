@@ -1,0 +1,5 @@
+username: "username here"
+client_id: "id here"
+client_secret: "secret here"
+playlist_id: "playlist id here"
+redirect_uri: "https://localhost:8080"
